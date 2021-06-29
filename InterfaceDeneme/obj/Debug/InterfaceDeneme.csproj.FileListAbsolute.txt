@@ -1,0 +1,7 @@
+C:\Users\ataka\source\repos\InterfaceDeneme\InterfaceDeneme\bin\Debug\InterfaceDeneme.exe.config
+C:\Users\ataka\source\repos\InterfaceDeneme\InterfaceDeneme\bin\Debug\InterfaceDeneme.exe
+C:\Users\ataka\source\repos\InterfaceDeneme\InterfaceDeneme\bin\Debug\InterfaceDeneme.pdb
+C:\Users\ataka\source\repos\InterfaceDeneme\InterfaceDeneme\obj\Debug\InterfaceDeneme.csproj.AssemblyReference.cache
+C:\Users\ataka\source\repos\InterfaceDeneme\InterfaceDeneme\obj\Debug\InterfaceDeneme.csproj.CoreCompileInputs.cache
+C:\Users\ataka\source\repos\InterfaceDeneme\InterfaceDeneme\obj\Debug\InterfaceDeneme.exe
+C:\Users\ataka\source\repos\InterfaceDeneme\InterfaceDeneme\obj\Debug\InterfaceDeneme.pdb
